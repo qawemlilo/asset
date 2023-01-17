@@ -18,7 +18,7 @@
     },
     "require": {
         "php": "^7.3 || ^8.0",
-        "laravelcollective/html": "dev-master",
+        "laravie/html": "dev-master",
         "orchestra/contracts": "^6.0",
         "orchestra/support-facades": "^6.0"
     },
