@@ -19,8 +19,8 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "qawemlilo/html": "^6.4",
-        "orchestra/contracts": "*",
-        "orchestra/support-facades": "*"
+        "orchestra/contracts": "dev-master",
+        "orchestra/support-facades": "dev-master"
     },
     "require-dev": {
         "illuminate/filesystem": "*",
