@@ -19,7 +19,7 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "qawemlilo/html": "^6.4",
-        "qawemlilo/support-facades": "^6.0"
+        "qawemlilo/support-facades": "^7.0"
     },
     "require-dev": {
         "illuminate/filesystem": "*",
