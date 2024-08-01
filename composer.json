@@ -35,7 +35,7 @@
     ],
     "suggest": {
         "illuminate/filesystem": "Allow using orchestra/asset component outside of Laravel app (^8.0).",
-        "orchestra/html": "Allow using orchestra/asset with HTML component (^6.0)."
+        "qawemlilo/html": "Allow using orchestra/asset with HTML component (^6.0)."
     },
     "extra": {
         "branch-alias": {
