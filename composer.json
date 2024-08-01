@@ -13,13 +13,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "Orchestra\\Asset\\" : "src/"
+            "Orchestra\\Asset\\" : "src/",
+            "Orchestra\\Support\\Facades\\" : "Facades/"
         }
     },
     "require": {
         "php": "^7.3 || ^8.0",
-        "qawemlilo/html": "^6.4",
-        "qawemlilo/support-facades": "*"
+        "qawemlilo/html": "^6.4"
     },
     "require-dev": {
         "illuminate/filesystem": "*",
@@ -30,10 +30,6 @@
       {
         "type": "vcs",
         "url": "https://github.com/qawemlilo/html"
-      },
-      {
-        "type": "vcs",
-        "url": "https://github.com/qawemlilo/support-facades"
       }
     ],
     "suggest": {
