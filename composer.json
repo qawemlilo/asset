@@ -18,7 +18,8 @@
     },
     "require": {
         "php": "^7.3 || ^8.0",
-        "qawemlilo/html": "^6.4"
+        "qawemlilo/html": "^6.4",
+        "qawemlilo/support-facades": "^6.0"
     },
     "require-dev": {
         "illuminate/filesystem": "*",
@@ -29,6 +30,10 @@
       {
         "type": "vcs",
         "url": "https://github.com/qawemlilo/html"
+      },
+      {
+        "type": "vcs",
+        "url": "https://github.com/qawemlilo/support-facades"
       }
     ],
     "suggest": {
